@@ -24,6 +24,10 @@ p{
     font-family: "Papyrus", cursive;
 }
 
+a{
+    background-color: brown;
+}
+
 a:hover{
     background-color: brown;
     color: orange;
@@ -62,7 +66,12 @@ button{
     background-color: orange;
 }
 
+button{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 button:active{
     background-color: black;
     color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
