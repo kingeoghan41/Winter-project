@@ -61,3 +61,8 @@ td{
 button{
     background-color: orange;
 }
+
+button:active{
+    background-color: black;
+    color: red;
+}
