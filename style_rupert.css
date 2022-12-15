@@ -11,6 +11,7 @@ body{
 
 #summary{
     background-color: green;
+    color: rgb(202, 202, 0);
     text-align: center;
     font-family: "Courier New", monospace;
 }
@@ -21,6 +22,21 @@ img{
 
 p{
     font-family: "Papyrus", cursive;
+}
+
+a:hover{
+    background-color: brown;
+    color: orange;
+}
+
+a:active{
+    background-color: brown;
+    color: green;
+}
+
+a:visited{
+    background-color: brown;
+    color: yellow;
 }
 
 em{
